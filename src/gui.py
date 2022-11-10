@@ -1,3 +1,12 @@
+'''
+Copyright (c) 2022, Shubhankar Valimbe
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+
+'''
+
 import PySimpleGUI as sg
 from info import *
 from app import *
